@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/golerme">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=golerme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golerme&layout=compact&langs_count=35&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golerme&layout=compact&langs_count=26&theme=dark"/>
 </div>  
   
 <div style="display: inline_block"><br>
