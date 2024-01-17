@@ -1,6 +1,6 @@
 ### Oi, eu sou Guilherme Boettger. 👋
 
-- 📚 Cursando Técnico de Desenvolvimento de Sistemas.
+- 📚 Técnico de Desenvolvimento de Sistemas.
 - 🌱 Atualmente estudando HTML5, CSS e JavaScript.
 
 <div>
