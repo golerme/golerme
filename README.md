@@ -1,7 +1,9 @@
 ### Oi, eu sou Guilherme Boettger. 👋
 
 - 📚 Técnico de Desenvolvimento de Sistemas.
-- 🌱 Atualmente estudando HTML5, CSS e JavaScript.
+- 💼 Graduando em Ciência da Computação.
+- 🌱 Atualmente estudando Java e Python.
+- ✍🏻 Minhas linguagens HTML5, CSS e JavaScript.
 
 <div>
   <a href="https://github.com/golerme">
