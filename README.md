@@ -22,7 +22,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am Guilherme, a 19 years old, fluent in English and currently diving into the world of Java and Python programming. I'm passionate about learning new technologies and exploring how they can shape the future. Looking forward to connecting with like-minded individuals and expanding my skills!"
+  - 💬 I am 19 years old, fluent in English and currently diving into the world of Java and Python programming. I'm passionate about learning new technologies and exploring how they can shape the future. Looking forward to connecting with like-minded individuals and expanding my skills!"
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games. kekw
 </details>
