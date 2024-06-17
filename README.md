@@ -47,7 +47,8 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
 
-# ⚡ Projects & Github
+<br>
+
 <div style="display: inline-flex">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=golerme&theme=gotham"/>
 <img align="right" height="196rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golerme&theme=gotham&layout=compact" />
