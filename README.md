@@ -11,9 +11,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Guilherme! A passionate Data Science student from Brazil.
+  Hi 👋, I am Guilherme! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science.
+  - 🌱 I am currently studying Data Science.
 
   - 🔭 I am looking for a job opportunity. My dream is to one day work with AI.
 </p>
